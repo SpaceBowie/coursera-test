@@ -4,7 +4,24 @@
 body{
 	margin: 0;
 	font-family: Arial, sans-serif;
+	background-color: lightblue;
 }
+
+/** HEADER NAV **/
+#header-nav {
+	border: 0;
+}
+
+#nav-list a{
+	text-align: center;
+}
+
+#text-content{
+	background-color: whitesmoke;
+}
+
+
+/** 
 h1{
 	text-align: center;
 	font-size: 3.5em;
@@ -20,4 +37,4 @@ p{
 }
 @media (max-width: 767px){
 
-}
+}**/
