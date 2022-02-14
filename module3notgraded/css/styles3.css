@@ -1,0 +1,40 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	margin: 0;
+	font-family: Arial, sans-serif;
+	background-color: #black;
+}
+
+#header-nav {
+	border: 0;
+}
+
+
+#text-content{
+	background-color: #eeeeee;
+}
+
+#main-content{
+	background-color: #aaaaaa;
+}
+
+.columna{
+	background-color: #eeeeee;
+}
+
+/**
+@media (min-width: 992px){
+	#main-content {
+
+	}
+
+}
+@media (min-width: 768px) and (max-width: 991px){
+
+}
+@media (max-width: 767px){
+
+}
+**/
