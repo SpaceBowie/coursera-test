@@ -4,7 +4,7 @@
 body{
 	margin: 0;
 	font-family: Arial, sans-serif;
-	background-color: lightblue;
+	background-color: #555555;
 }
 
 /** HEADER NAV **/
@@ -20,7 +20,6 @@ body{
 	background-color: whitesmoke;
 }
 
-
 /** 
 h1{
 	text-align: center;
@@ -29,7 +28,13 @@ h1{
 p{
 	background-color: transparent;
 }
+**/
+
 @media (min-width: 992px){
+	#main-content {
+
+	}
+
 
 }
 @media (min-width: 768px) and (max-width: 991px){
@@ -37,4 +42,4 @@ p{
 }
 @media (max-width: 767px){
 
-}**/
+}
