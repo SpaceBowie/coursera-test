@@ -7,7 +7,6 @@ body{
 	background-color: #aaaaaa;
 }
 
-/** HEADER NAV **/
 #header-nav {
 	border: 0;
 }
@@ -24,21 +23,11 @@ body{
 	background-color: #aaaaaa;
 }
 
-/** 
-h1{
-	text-align: center;
-	font-size: 3.5em;
-}
-p{
-	background-color: transparent;
-}
-**/
-
+/**
 @media (min-width: 992px){
 	#main-content {
 
 	}
-
 
 }
 @media (min-width: 768px) and (max-width: 991px){
@@ -47,3 +36,4 @@ p{
 @media (max-width: 767px){
 
 }
+**/
