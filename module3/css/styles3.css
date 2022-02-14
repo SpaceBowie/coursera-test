@@ -4,7 +4,7 @@
 body{
 	margin: 0;
 	font-family: Arial, sans-serif;
-	background-color: #cccccc;
+	background-color: #aaaaaa;
 }
 
 /** HEADER NAV **/
@@ -17,11 +17,11 @@ body{
 }
 
 #text-content{
-	background-color: white;
+	background-color: #eeeeee;
 }
 
 #main-content{
-	background-color: #cccccc;
+	background-color: #aaaaaa;
 }
 
 /** 
